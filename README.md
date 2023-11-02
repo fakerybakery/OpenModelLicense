@@ -90,4 +90,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## License
 
-Please license your software under these licenses! Spread open source! These licenses are dedicated to the public domain!
+Please license your software under these licenses! Spread open source! These licenses are dedicated to the public domain! Put these on your Hugging Face models to spread the license!
