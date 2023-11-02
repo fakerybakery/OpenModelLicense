@@ -1,5 +1,6 @@
 # Open Model License
-A permissive license for distributing AI models. V1
+
+A permissive license for distributing AI models. **Disclaimer: IANAL**
 
 ## The Problem
 
