@@ -16,7 +16,7 @@ We propse four licenses.
 
 To apply these licenses on Hugging Face:
 
-```
+```yaml
 ---
 license: other
 license_name: omlv1
