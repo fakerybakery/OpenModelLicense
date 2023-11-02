@@ -12,7 +12,17 @@ Just modify the MIT license to clarify this!
 
 ## The Licenses
 
-We propse four licenses, a basic, permissive
+We propse four licenses.
+
+To apply these licenses on Hugging Face:
+
+```
+---
+license: other
+license_name: omlv1
+license_link: https://github.com/fakerybakery/OpenModelLicense
+---
+```
 
 ### OMLv1 - Basic, permissive, MIT-like license
 
