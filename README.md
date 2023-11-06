@@ -1,3 +1,5 @@
+[![Spread OML](https://img.shields.io/badge/Spread-Open_Model_License-red)](https://github.com/fakerybakery/OpenModelLicense)
+
 # Open Model License
 
 A permissive license for distributing AI models. **Disclaimer: IANAL**
