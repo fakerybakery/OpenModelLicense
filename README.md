@@ -123,6 +123,16 @@ Markdown:
 Share YOUR model under the permissive Open Model License, a NEW approach to AI model licensing. Stop trying to fit software licenses to your AI model. Does "source code" apply to AI models? Don't worry about that - just use the [Open Model License](https://github.com/fakerybakery/OpenModelLicense)!
 ```
 
+### Spread OML Badge
+
+![Spread OML](https://img.shields.io/badge/Spread-Open_Model_License-red)
+
+Markdown:
+
+```markdown
+[![Spread OML](https://img.shields.io/badge/Spread-Open_Model_License-red)](https://github.com/fakerybakery/OpenModelLicense)
+```
+
 ## License of the Licenses
 
 Please license your software under these licenses! Spread open source! These licenses are dedicated to the public domain! Put these on your Hugging Face models to spread the license! The license is in the public domain! **However, we do have one request if you modify this license.** Please refer to the LICENSE file for details.
