@@ -125,6 +125,8 @@ Share YOUR model under the permissive Open Model License, a NEW approach to AI m
 
 ### Spread OML Badge
 
+Apply this everywhere! Looks beautiful anywhere and everywhere! Put it on your Hugging Face Model Cards, add it to your GitHub repos, put it on stuff that isn't even remotely related to AI!
+
 ![Spread OML](https://img.shields.io/badge/Spread-Open_Model_License-red)
 
 Markdown:
