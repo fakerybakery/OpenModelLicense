@@ -101,6 +101,6 @@ I am not a lawyer.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## License
+## License of the Licenses
 
-Please license your software under these licenses! Spread open source! These licenses are dedicated to the public domain! Put these on your Hugging Face models to spread the license!
+Please license your software under these licenses! Spread open source! These licenses are dedicated to the public domain! Put these on your Hugging Face models to spread the license! The license is in the public domain! **However, we do have one request if you modify this license.** Please refer to the LICENSE file for details.
