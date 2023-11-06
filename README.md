@@ -21,7 +21,7 @@ To apply these licenses on Hugging Face:
 ```yaml
 ---
 license: other
-license_name: omlv1
+license_name: omlv1.1
 license_link: https://github.com/fakerybakery/OpenModelLicense
 ---
 ```
