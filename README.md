@@ -71,7 +71,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 * The above copyright notice and this permission notice shall be included in all copies of the model in all formats, including quantized models and models in different formats from the original.
 * The above copyright notice and this permission notice shall be included in all derivatives of the model, including finetuned models.
-* All derivatives of the model, including finetuned models, shall be licensed under the same SOMLv1 license or any later version of the SOML license as released by the Open Model License initiative (https://github.com/fakerybakery/OpenModelLicense).
+* All derivatives of the model, including finetuned models, shall be open sourced and licensed under the same SOMLv1 license or any later version of the SOML license as released by the Open Model License initiative (https://github.com/fakerybakery/OpenModelLicense).
 * The names of the authors and/or contributors may not be used to endorse any derivatives of this software without prior written permission from the copyright holders.
 
 THE MODEL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE MODEL OR THE USE OR OTHER DEALINGS IN THE MODEL.
